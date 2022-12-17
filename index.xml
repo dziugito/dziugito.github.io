@@ -13,8 +13,7 @@
       <pubDate>Sat, 17 Dec 2022 16:30:50 +0200</pubDate>
       
       <guid>http://dziugito.github.io/posts/hugenas2/</guid>
-      <description> @Override protected void onCreate(Bundle savedInstanceState) { super.onCreate(savedInstanceState); setContentView(R.layout.activity_main);
-Button buttonOpen = findViewById(R.id.button_open); TextInputEditText text = findViewById(R.id.text); WebView webView = findViewById(R.id.webV); buttonOpen.setOnClickListener(view -&amp;gt; { webView.getSettings().setJavaScriptEnabled(true); webView.loadUrl(text.getText().toString()); }); } </description>
+      <description> 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 @Override protected void onCreate(Bundle savedInstanceState) { super.onCreate(savedInstanceState); setContentView(R.layout.activity_main); Button buttonOpen = findViewById(R.id.button_open); TextInputEditText text = findViewById(R.id.text); WebView webView = findViewById(R.id.webV); buttonOpen.setOnClickListener(view -&amp;gt; { webView.getSettings().setJavaScriptEnabled(true); webView.loadUrl(text.getText().toString()); }); } </description>
     </item>
     
     <item>
