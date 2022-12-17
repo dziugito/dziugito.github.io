@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mano hugo svetaine</title>
+    <link>http://dziugito.github.io/</link>
+    <description>Recent content on Mano hugo svetaine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Dec 2022 16:30:50 +0200</lastBuildDate><atom:link href="http://dziugito.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>9hugenas9</title>
+      <link>http://dziugito.github.io/posts/hugenas2/</link>
+      <pubDate>Sat, 17 Dec 2022 16:30:50 +0200</pubDate>
+      
+      <guid>http://dziugito.github.io/posts/hugenas2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6hugenas6</title>
+      <link>http://dziugito.github.io/posts/hugenas/</link>
+      <pubDate>Sat, 17 Dec 2022 15:49:21 +0200</pubDate>
+      
+      <guid>http://dziugito.github.io/posts/hugenas/</guid>
+      <description>Dziugas mano vardas. 4lab darbas.</description>
+    </item>
+    
+  </channel>
+</rss>
